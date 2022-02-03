@@ -1,0 +1,2 @@
+# PostgreSQL_Odev5
+ORDER BY, LIMIT ve OFFSET
